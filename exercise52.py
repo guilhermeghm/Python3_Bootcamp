@@ -10,7 +10,6 @@ def multiply_even_numbers(list):
         total *= x
     return total
 
-
 #Official solution:
 def multiply_even_numbers(lst):
     total = 1
