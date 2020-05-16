@@ -1,4 +1,4 @@
-names = ['Aria', "Samson", "Dora", "Tim",, "Ollivander"]
+names = ['Aria', "Samson", "Dora", "Tim", "Ollivander"]
 
 min(len(name) for name in names)
 max(names, key=lambda n:len(n))
